@@ -10,15 +10,15 @@ Currently the bot can:
 
 *In order to use a command the '%' is typed at the beginning of the command
 Commands:
-  '%play song_name' - plays song entered or if the bot is already playing music it will add the song to the end of the queue
-  '%playlist playlist_name' - adds songs in chosen playlist to the queue. You will be prompted y/n to shuffle playlist after entering the %playlist command
-  '%queue' - prints all songs in the queue
-  '%skip' - skips current song
-  '%repeat example_string' - repeats the string in Discord chat
-  '%kill' - ends the application requiring the bot to be restarted
-  '%menu' - displays all playlist commands
-  '%l' - lists the playlists
-  '%a' - creates new playlist
-  '%d' - deletes a playlist
-  '%ads' - adds a song to a playlist
-  '%ds' - deletes a song from a playlist
+  - '%play song_name' - plays song entered or if the bot is already playing music it will add the song to the end of the queue
+  - '%playlist playlist_name' - adds songs in chosen playlist to the queue. You will be prompted y/n to shuffle playlist after entering the %playlist command
+  - '%queue' - prints all songs in the queue
+  - '%skip' - skips current song
+  - '%repeat example_string' - repeats the string in Discord chat
+  - '%kill' - ends the application requiring the bot to be restarted
+  - '%menu' - displays all playlist commands
+  - '%l' - lists the playlists
+  - '%a' - creates new playlist
+  - '%d' - deletes a playlist
+  - '%ads' - adds a song to a playlist
+  - '%ds' - deletes a song from a playlist
