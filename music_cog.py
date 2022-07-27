@@ -4,14 +4,7 @@
 	Ethan Timothy
 	Source of tutorial and base code: https://www.youtube.com/watch?v=i0nNPidYQ2w&t=57s'''
 
-import discord
-import time
-import os
-import json
-import asyncio
-import random
-import threading
-import datetime
+import asyncio, datetime, discord, json, os, threading, time, random
 from discord.ext import commands 
 from youtube_dl import YoutubeDL
 
